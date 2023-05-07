@@ -19,5 +19,6 @@ In Order to run the project, one must have all these files in the repository. On
 Open the project folder in vsCode then open terminal, type and enter;
 1. cd mern-dashboard-server .... change directory
 2. npm run start ... start server on locathost:8000 Port
-3. npm run dev   ... start the development server then compile the webpackage
+3. cd mern-dashboard-client .... change directory
+4. npm run dev   ... start the development server then compile the webpackage
     On "Compiled Successfully!" You will be able to view the front-end that is mern-dashboard-client in the browser.
