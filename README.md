@@ -1,6 +1,6 @@
 # project_001
 
-A fully functional full-stack MERN dashboard application with complete CRUD functionalities, authentication, pagination, sorting, filtering, and more!
+A fully functional full-stack MERN dashboard application with complete CRUD functionalities, authentication, pagination, sorting, filtering etc!
 
 
 Alongside building this application; came across:
